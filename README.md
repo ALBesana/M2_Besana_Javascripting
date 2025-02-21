@@ -1,0 +1,2 @@
+# M2_Besana_Javascripting
+Javascripting workshop
